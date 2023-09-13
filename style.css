@@ -1,0 +1,47 @@
+.white{
+   background-color: hsl(0, 0%, 100%);
+}
+
+.light-gray{
+    color: hsl(212, 45%, 89%);
+}
+
+.grayish-blue{
+    background-color: hsl(220, 15%, 55%);
+}
+
+.dark-blue{
+    color: hsl(218, 44%, 22%);
+}
+
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#main-div{
+    border-radius: 20px;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+}
+#qr{
+    width: 300px;
+    height: 300px;
+    border-radius: 7px;
+}
+
+#l1{
+    font-weight: 700;
+    font-size: 20px;
+}
+#l2{
+    font-weight: 200;
+    font-size: 15px;
+}
+.label{
+    font-family:'Outfit';
+    
+}
